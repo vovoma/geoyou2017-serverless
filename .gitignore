@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *~
-*.pyc
+node_modules
+.token
