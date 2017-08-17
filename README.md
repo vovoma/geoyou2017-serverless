@@ -1,8 +1,6 @@
 ## Lambda function example using serverless
 
-The following steps assume you already have an AWS account setup and awscli installed and default profile has been setup.
-
-<http://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html>
+The following steps assume you already have an [AWS account setup](https://aws.amazon.com/free/) and awscli installed and [default profile](http://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html) has been created.
 
 ## Setup
 
